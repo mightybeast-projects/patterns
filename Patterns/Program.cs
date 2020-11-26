@@ -10,5 +10,7 @@ namespace Patterns
             _pattern = new SingletonPattern();
             _pattern.Run();
         }
+
+        
     }
 }
